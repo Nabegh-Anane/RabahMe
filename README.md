@@ -1,7 +1,6 @@
-﻿# RabahMe: Empowering Tunisian Businesses through Targeted Email and SMS Marketing with AI Integration
+# RabahMe: Empowering Tunisian Businesses through Targeted Email and SMS Marketing with AI Integration
 
 Welcome to RabahMe, the cutting-edge Android application revolutionizing marketing strategies for businesses in Tunisia. RabahMe seamlessly combines targeted email and SMS marketing with the power of AI ChatGPT, ensuring optimal choices, detailed analysis, and campaign tracking.
-
 
 <p align="center">
   <a href="https://nabeghanane.me/#projects"><img src="https://github.com/Nabegh-Anane/RabahMe/blob/main/app/screenshots/log_motion.png?raw=true" alt="Logo" width="370" height="250"></a>
@@ -10,9 +9,7 @@ Welcome to RabahMe, the cutting-edge Android application revolutionizing marketi
 
 <p align="center">
   <a href="https://nabeghanane.me/#projects">
-    <video autoplay loop muted playsinline>
-      <source src="https://github.com/Nabegh-Anane/RabahMe/blob/main/app/screenshots/Logo.mp4" type="video/mp4">
-    </video>
+    <img src="https://github.com/Nabegh-Anane/RabahMe/blob/main/app/screenshots/Logo.gif" alt="Logo GIF" width="370" height="250">
   </a>
 </p>
 
