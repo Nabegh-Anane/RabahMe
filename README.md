@@ -11,7 +11,7 @@ Welcome to RabahMe, the cutting-edge Android application revolutionizing marketi
 <p align="center">
   <a href="https://nabeghanane.me/#projects">
     <video autoplay loop muted playsinline>
-      <source src="https://github.com/Nabegh-Anane/RabahMe/blob/main/app/screenshots/Logo.mp4?raw=true" type="video/mp4">
+      <source src="https://github.com/Nabegh-Anane/RabahMe/blob/main/app/screenshots/Logo.mp4" type="video/mp4">
     </video>
   </a>
 </p>
@@ -59,7 +59,7 @@ Welcome to RabahMe, the cutting-edge Android application revolutionizing marketi
 
 ## Getting Started
 
-To get started with Pet/Asset Tracker Pro, follow these steps:
+To get started with RabahMe, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Nabegh-Anane/RabahMe.git`
 2. Install dependencies as specified in the documentation.
