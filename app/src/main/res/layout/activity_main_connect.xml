@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main_Connect">
+
+
+
+ <ImageView
+     android:id="@+id/imageViewa"
+     android:layout_width="426dp"
+     android:layout_height="251dp"
+     app:layout_constraintBottom_toBottomOf="parent"
+     app:layout_constraintEnd_toEndOf="parent"
+     app:layout_constraintHorizontal_bias="0.533"
+     app:layout_constraintStart_toStartOf="parent"
+     app:layout_constraintTop_toTopOf="parent"
+     app:layout_constraintVertical_bias="0.087"
+     app:srcCompat="@drawable/logo" />
+
+
+ <TextView
+     android:id="@+id/textView"
+     android:layout_width="363dp"
+     android:layout_height="35dp"
+     android:layout_alignParentTop="true"
+     android:text="Bienvenue à RabahMe"
+     android:textAlignment="center"
+     android:textColor="#000"
+     android:textSize="26dp"
+     app:layout_constraintBottom_toBottomOf="parent"
+     app:layout_constraintEnd_toEndOf="parent"
+     app:layout_constraintStart_toStartOf="parent"
+     app:layout_constraintTop_toTopOf="parent"
+     app:layout_constraintVertical_bias="0.487" />
+
+ <TextView
+     android:layout_width="363dp"
+     android:layout_height="53dp"
+     android:layout_alignParentTop="true"
+     android:text="minimiser vos cout Maximiser vos profits"
+     android:textAlignment="center"
+     android:textColor="#000"
+     android:textSize="20dp"
+     app:layout_constraintBottom_toBottomOf="parent"
+     app:layout_constraintEnd_toEndOf="parent"
+     app:layout_constraintStart_toStartOf="parent"
+     app:layout_constraintTop_toTopOf="parent"
+     app:layout_constraintVertical_bias="0.561" />
+
+ <Button
+     android:id="@+id/register"
+     android:layout_width="289dp"
+     android:layout_height="60dp"
+     android:layout_alignParentBottom="true"
+     android:layout_centerHorizontal="true"
+     android:layout_gravity="center"
+     android:background="@drawable/whiteroundedbuttonshape"
+     android:text="Enregistrer"
+     android:textAllCaps="false"
+     android:textColor="#fff"
+     android:textColorHighlight="#981005"
+     android:textColorLink="#981005"
+     android:textSize="16sp"
+     android:backgroundTint="#981005"
+     app:layout_constraintBottom_toBottomOf="parent"
+     app:layout_constraintEnd_toEndOf="parent"
+     app:layout_constraintHorizontal_bias="0.54"
+     app:layout_constraintStart_toStartOf="parent"
+     app:layout_constraintTop_toTopOf="parent"
+     app:layout_constraintVertical_bias="0.839" />
+
+ <Button
+     android:id="@+id/login"
+     android:layout_width="289dp"
+     android:layout_height="63dp"
+     android:layout_alignParentBottom="true"
+     android:layout_centerHorizontal="true"
+     android:layout_gravity="center"
+     android:background="@drawable/blackroundedbuttonshape"
+     android:backgroundTint="#AF1F1F"
+     android:text="Connecter"
+     android:textAllCaps="false"
+     android:textColor="#ffffff"
+     android:textColorHighlight="#AA1313"
+     android:textColorHint="#8E1111"
+     android:textColorLink="#B61313"
+     android:textSize="16sp"
+     app:iconTint="#CD1010"
+     app:layout_constraintBottom_toBottomOf="parent"
+     app:layout_constraintEnd_toEndOf="parent"
+     app:layout_constraintHorizontal_bias="0.54"
+     app:layout_constraintStart_toStartOf="parent"
+     app:layout_constraintTop_toTopOf="parent"
+     app:layout_constraintVertical_bias="0.732" />
+
+ <TextView
+     android:id="@+id/textView2"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:text="Copyright 2023 © RabahMe"
+     android:textColor="#000"
+     android:textSize="20px"
+     app:layout_constraintBottom_toBottomOf="parent"
+     app:layout_constraintEnd_toEndOf="parent"
+     app:layout_constraintHorizontal_bias="0.531"
+     app:layout_constraintStart_toStartOf="parent"
+     app:layout_constraintTop_toTopOf="parent"
+     app:layout_constraintVertical_bias="0.991" />
+</androidx.constraintlayout.widget.ConstraintLayout>
