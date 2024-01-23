@@ -4,7 +4,7 @@ Welcome to RabahMe, the cutting-edge Android application revolutionizing marketi
 
 
 <p align="center">
-  <a href="https://nabeghanane.me/#projects"><img src="https://github.com/Nabegh-Anane/RabahMe/blob/main/app/screenshots/log_motion.png?raw=true" alt="Logo" width="450" height="250"></a>
+  <a href="https://nabeghanane.me/#projects"><img src="https://github.com/Nabegh-Anane/RabahMe/blob/main/app/screenshots/log_motion.png?raw=true" alt="Logo" width="370" height="250"></a>
   <a href="https://nabeghanane.me/#projects"><img src="https://github.com/Nabegh-Anane/RabahMe/blob/main/app/screenshots/log_mobile.png?raw=true" alt="Logo" width="250" height="250"></a>
 </p>
 
