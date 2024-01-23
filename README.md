@@ -8,9 +8,7 @@ Welcome to RabahMe, the cutting-edge Android application revolutionizing marketi
 </p>
 
 <p align="center">
-  <a href="https://nabeghanane.me/#projects">
-    <img src="https://github.com/Nabegh-Anane/RabahMe/blob/main/app/screenshots/Logo.gif?raw=true" alt="Logo GIF" width="370" height="250">
-  </a>
+ <img src="https://github.com/Nabegh-Anane/RabahMe/blob/main/app/screenshots/Logo.gif?raw=true" alt="Logo GIF">
 </p>
 
 ## Screenshots
